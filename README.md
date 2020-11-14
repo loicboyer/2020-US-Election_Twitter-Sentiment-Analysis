@@ -7,3 +7,5 @@ ode collated from various sources for use with the book:
 <img src="https://github.com/loicboyer/2020-US-Election_Twitter-Sentiment-Analysis/blob/main/wordcloud.png" width=300, align="center">
 
 This file is: https://github.com/jgvfwstone/ArtificialIntelligenceEngines
+
+<img src="https://github.com/loicboyer/2020-US-Election_Twitter-Sentiment-Analysis/blob/main/Mostcommonwords.png" width=300, align="center">
