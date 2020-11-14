@@ -16,4 +16,4 @@ SENTIMENT COUNT
 
 SENTIMENT TIMELINE
 
-<img src="https://github.com/loicboyer/2020-US-Election_Twitter-Sentiment-Analysis/blob/img/daily tweets sentimental analysis.png" width=300, align="center">
+<img src="https://github.com/loicboyer/2020-US-Election_Twitter-Sentiment-Analysis/blob/main/img/daily tweets sentimental analysis.png" width=300, align="center">
