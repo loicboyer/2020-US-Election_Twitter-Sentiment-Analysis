@@ -1,6 +1,6 @@
 # 2020-US-Election_Twitter-Sentiment-Analysis
 
-This file is: https://github.com/loicboyer/2020-US-Election_Twitter-Sentiment-Analysis
+This notebook is available at: https://github.com/loicboyer/2020-US-Election_Twitter-Sentiment-Analysis
 
 MOST COMMON WORDS
 
